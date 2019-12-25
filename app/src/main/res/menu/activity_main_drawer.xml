@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+                android:id="@+id/navigation_item"
+                android:checked="true"
+                android:icon="@drawable/ic_home"
+                android:title="Home" />
+        <item
+            android:id="@+id/nav_intro"
+            android:icon="@drawable/ic_grade_black_24dp"
+            android:title="Intro" />
+        <item
+            android:id="@+id/nav_products"
+            android:icon="@drawable/ic_apps_black_24dp"
+            android:title="Products" />
+        <item
+            android:id="@+id/nav_services"
+            android:icon="@drawable/ic_widgets_black_24dp"
+            android:title="Services" />
+        <item
+            android:id="@+id/nav_about"
+            android:icon="@drawable/aboutus"
+            android:title="About us" />
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_Website"
+                android:icon="@drawable/ic_language_black_24dp"
+                android:title="WebSite" />
+            <item
+                android:id="@+id/nav_call"
+                android:icon="@drawable/ic_phone_black_24dp"
+                android:title="Contact No." />
+            <item
+                android:id="@+id/nav_RateUs"
+                android:icon="@drawable/rateus"
+                android:title="Rate us" />
+        </menu>
+    </item>
+
+</menu>
