@@ -47,7 +47,7 @@ Premium-SmartWebView App is a native Android application which uses web view com
 <br>
 <h2> Extras </h2>
 <p>Find out more about Premium-SmartWebView :) </p>
-<li><a href="https://github.com/mjbdl">Click For More Information</a></li>
+<li><a href="https://try-tolearn.blogspot.com/2019/09/premium-smartwebview.html">Click For More Information</a></li>
 <p><b>License</b><p>
 <p>Copyright 2019 mjbdl.</p>
 Licensed under the Apache License, Version 2.0 (the "License");
