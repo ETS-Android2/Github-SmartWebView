@@ -8,5 +8,5 @@ package com.android.smartwebview.push;
 public class Config {
 
 // Mobile website or web based mobile app URL
-   public static final String ads_url = "https://wiki-studio.blogspot.com";
+   public static final String ads_url = "https://try-tolearn.blogspot.com/2019/09/premium-smartwebview.html";
 }
