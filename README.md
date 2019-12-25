@@ -1,7 +1,13 @@
 # Premium-SmartWebView
 Premium SmartWebview is a webview integrated w/ native features to help create most advanced hybrid applications.
-# Premium-SmartWebView
-<img src="https://github.com/mjbdl/Premium-SmartWebView/blob/master/app/src/main/res/mipmap-hdpi/ic_launcher.png"></img>
+## Support the Project
+
+#### There are few ways to support this project -
+
+**DONATE:** If this project helped you or your business in any way and you feel like donating some change, you can always -----+ :)
+
+<a href="http://paypal.me/premium813" target="_blank" title="Buy me a Coffee"><img width="150" style="border:0px;width:150px;display:block;margin:0 auto" src="https://az743702.vo.msecnd.net/cdn/kofi2.png?v=0" border="0" alt="Buy Me a Coffee at ko-fi.com" /></a>
+
 <h2> Current features </h2>
   &bull; Lightweight - does not take lots of resources to run
   <br>
