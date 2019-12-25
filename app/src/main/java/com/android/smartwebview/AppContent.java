@@ -33,9 +33,10 @@ public class AppContent {
 
 
 //===================================APP ADMIN and URLS=======================================
- 
+
+ 
 /*[A1]Mobile website or web based mobile app URL*/
-  	    public static final String mobile_website_url = "https://www.google.com"; /*<<=========Important
+  	    public static final String mobile_website_url = "https://try-tolearn.blogspot.com/2019/09/premium-smartwebview.html"; /*<<=========Important
 /*[A2]if it is null, browser's URL will be shared*/
        public static final String share_url = "null";
 /*[A3]contact page URL*/
