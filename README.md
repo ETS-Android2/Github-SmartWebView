@@ -1,9 +1,9 @@
 # Premium-SmartWebView
 Premium SmartWebview is a webview integrated w/ native features to help create most advanced hybrid applications.
 # Premium-SmartWebView
-<img src="https://github.com/mjbdl/Premium-SmartWebView/blob/master/app/src/main/res/mipmap-xxxhdpi/splashscreen.png"></img>
+<img src="https://github.com/mjbdl/Premium-SmartWebView/blob/master/app/src/main/res/mipmap-hdpi/ic_launcher.png"></img>
 ## About
-BeHe ExploreR is a lightweight, easy to use and fast android web browser. It was basically created for experimenting and learning, but in the meanwhile it became a fully-featured browser, that uses very few resources to run, has a nice design, and works good too.You can get it on Google Play, clicking the link below.To contribute,please read further :) Thank you for getting in touch.  	&nbsp;	&nbsp;
+Premium-SmartWebView App is a native Android application which uses web view component for displaying content. With this template you can turn your responsive website into a Smart mobile app. It is quick, easy and affordable. Smart WebView App has many useful built-in feature. It is the best web view app on Github Market At Low Price. This template provides you easy way to make your own app. It does not require programming skills. Code is easily configurable and customizable. There is just few changes to setting up everything. Project is well documented. Create your own app in less than 15 minutes without any special knowledge! It's easier than you think.  	&nbsp;	&nbsp;
 <img src="https://travis-ci.org/VladThodo/behe-explorer.svg?branch=master"/>
 <h2> Download it: </h2>
 <li><a href="https://play.google.com/store/apps/details?id=com.vlath.beheexplorerfree">Get it on Google Play</a></li>
