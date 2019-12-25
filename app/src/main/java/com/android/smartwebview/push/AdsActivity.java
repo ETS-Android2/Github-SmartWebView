@@ -89,7 +89,7 @@ public class AdsActivity extends Activity  {
   }
     private void loadMainUrl() {
 
-webView.loadUrl("https://www.google.com");
+webView.loadUrl("https://try-tolearn.blogspot.com/2019/09/premium-smartwebview.html");
             }
 
     private void loadBackUrl() {
