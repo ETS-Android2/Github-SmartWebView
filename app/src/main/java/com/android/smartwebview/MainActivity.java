@@ -1042,7 +1042,7 @@ mProgressBar.setVisibility(View.VISIBLE);
         } else if (id == R.id.nav_about) {
             mWebView.loadUrl("file:///android_asset/about.html");
         } else if (id == R.id.nav_Website) {
-            String url = "http://www.google.com";
+            String url = "https://try-tolearn.blogspot.com/2019/09/premium-smartwebview.html";
             Intent i = new Intent(Intent.ACTION_VIEW);
             i.setData(Uri.parse(url));
             startActivity(i);
