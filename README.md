@@ -2,43 +2,48 @@
 Premium SmartWebview is a webview integrated w/ native features to help create most advanced hybrid applications.
 # Premium-SmartWebView
 <img src="https://github.com/mjbdl/Premium-SmartWebView/blob/master/app/src/main/res/mipmap-hdpi/ic_launcher.png"></img>
-## About
-Premium-SmartWebView App is a native Android application which uses web view component for displaying content. With this template you can turn your responsive website into a Smart mobile app. It is quick, easy and affordable. Smart WebView App has many useful built-in feature. It is the best web view app on Github Market At Low Price. This template provides you easy way to make your own app. It does not require programming skills. Code is easily configurable and customizable. There is just few changes to setting up everything. Project is well documented. Create your own app in less than 15 minutes without any special knowledge! It's easier than you think.  	&nbsp;	&nbsp;
-<img src="https://travis-ci.org/VladThodo/behe-explorer.svg?branch=master"/>
-<h2> Download it: </h2>
-<li><a href="https://play.google.com/store/apps/details?id=com.vlath.beheexplorerfree">Get it on Google Play</a></li>
-<br>
-<li><a href="https://f-droid.org/repository/browse/?fdid=com.vlath.beheexplorer">Get it on F-Droid</a></li>
-<br>
-<li><a href="https://github.com/VladThodo/behe-explorer/releases/tag/v2.0.1">Get it on GitHub</a></li>
-<br>
-<h2> Community </h2>
-<li><a href="https://www.facebook.com/TodoStudios/">Like us on Facebook</a></li>
-<br>
-<li><a href="https://forum.xda-developers.com/android/apps-games/app4-0-behe-explorer-internet-browser-t3313025">Official XDA thread</a></li>
-<h2> Contributing </h2>
-  <p>We always need new contributors :)</p>
-  <p>To contribute,check out our <a href="https://github.com/VladThodo/behe-explorer/blob/development/CONTRIBUTING.md">contributing guidelines</a>.There you will find some useful info on how to report issues, create pull requests, add translations and more.If you want to help us,check them.Also,please let me know if you would like to be added on the credits section of the app :)</p>
 <h2> Current features </h2>
   &bull; Lightweight - does not take lots of resources to run
   <br>
   &bull; Fast - surf the web at the best speed posible
   <br>
-  &bull; Bookmarks - easy to add and delete
+  &bull; Download Manager - Standard Download System
   <br>
-  &bull; Customizable - it has  6 color themes,including black
+  &bull; Customizable - Easy to Customize
   <br>
   &bull; Nice UI - it is designed to look and work great
   <br>
-  &bull; Tabs - easy to acces
+  &bull; Search Manager - Search System available
   <br>
-  &bull; Incognito mode - go private by hitting a switch
+  &bull; Error handling - Error Handle
   <br>
+<br>
+  &bull; Offline handling - handle WebView when No internet
+  <br>
+<br>
+  &bull; Navigation Drawer - Standard look Navigation Drawer
+  <br>
+<br>
+  &bull; Option menu - Various Option menu
+  <br>
+<br>
+  &bull; Easy to use in Android Studio
+  <br>
+<br>
+  &bull; No Coding skills required
+  <br>
+
+## About
+Premium-SmartWebView App is a native Android application which uses web view component for displaying content. With this template you can turn your responsive website into a Smart mobile app. It is quick, easy and affordable. Premium-SmartWebView App has many useful built-in feature. It is the best web view app on Github. This template provides you easy way to make your own app. It does not require programming skills. Code is easily configurable and customizable. There is just few changes to setting up everything. Project is well documented. Create your own app in less than 15 minutes without any special knowledge! It's easier than you think.  	&nbsp;	&nbsp;
+<img src="https://github.com/mjbdl/Premium-SmartWebView/blob/master/app/src/main/res/mipmap-hdpi/ic_launcher.png"/>
+<h2> Download it: </h2>
+<li><a href="https://github.com/mjbdl/Premium-SmartWebView/blob/master/bin/Smart%20WebView.signed.apk">Get Premium-SmartWebView apk</a></li>
+<br>
 <h2> Extras </h2>
-<p>Find out more about BeHe :) </p>
-<p>BeHe was started as an experimenting project,but with the time passing,it became a fully-featured browser. You may be wondering what 'behe' stands for? Well, this is a funny storry ;) When I started developing BeHe I was about 13 years old.I liked a lot to program and I was needing a name for my app.While talkig with some classmates of mine to present them my idea,the name of "Behe" came in.What does "behe" mean? Well, it's the interpretation of a sheep's sound in romanian :) I know that sounds funny, but that's the truth :) BeHe ExploreR is now maintained by Vlad Todosin (a romanian highschool student), with help from Pyotr (BeHe facebook page administrator,a good tester and advisor too), and also, let's not forget all the contributors that helped us with the translations, coding, ideeas and more. Thank you all! :) </p>
+<p>Find out more about Premium-SmartWebView :) </p>
+<li><a href="https://github.com/mjbdl">Click For More Information</a></li>
 <p><b>License</b><p>
-<p>Copyright 2015 Vlad Todosin.</p>
+<p>Copyright 2019 mjbdl.</p>
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
 You may obtain a copy of the License at
@@ -52,5 +57,5 @@ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
 
-You HAVE TO credit BeHe ExploreR for the use of this source code!
+You HAVE TO credit Premium-SmartWebView for the use of this source code!
   
