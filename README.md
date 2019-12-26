@@ -43,7 +43,7 @@ Premium SmartWebview is a webview integrated w/ native features to help create m
 Premium-SmartWebView App is a native Android application which uses web view component for displaying content. With this template you can turn your responsive website into a Smart mobile app. It is quick, easy and affordable. Premium-SmartWebView App has many useful built-in feature. It is the best web view app on Github. This template provides you easy way to make your own app. It does not require programming skills. Code is easily configurable and customizable. There is just few changes to setting up everything. Project is well documented. Create your own app in less than 15 minutes without any special knowledge! It's easier than you think.  	&nbsp;	&nbsp;
 <img src="https://github.com/mjbdl/Premium-SmartWebView/blob/master/app/src/main/res/mipmap-hdpi/ic_launcher.png"/>
 <h2> Download it: </h2>
-<li><a href="https://github.com/mjbdl/Premium-SmartWebView/blob/master/bin/Smart%20WebView.signed.apk">Get Premium-SmartWebView apk</a></li>
+<li><a href="https://github.com/mjbdl/Premium-SmartWebView/blob/master/Premium-SmartWebView-master.apk">Get Premium-SmartWebView apk</a></li>
 <br>
 <h2> Extras </h2>
 <p>Find out more about Premium-SmartWebView :) </p>
