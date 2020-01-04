@@ -36,7 +36,7 @@ Premium SmartWebview is a webview integrated w/ native features to help create m
   &bull; Easy to use in Android Studio
   <br>
  <br>
-  &bull; Handle External like(youtube.com,play.google.com, and others)
+  &bull; Handle External URLs like(youtube.com,play.google.com, and others)
   <br>
 <br>
   &bull; No Coding skills required
