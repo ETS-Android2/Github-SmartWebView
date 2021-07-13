@@ -1,4 +1,4 @@
-# Premium-SmartWebView
+# Github-SmartWebView
 Premium SmartWebview is a webview integrated w/ native features to help create most advanced hybrid applications.
 
 ## "Android File Manager with File Share(like SHAREit) and Text Editor" Source code
