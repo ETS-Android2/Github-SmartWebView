@@ -1,5 +1,5 @@
 # Github-SmartWebView
-Premium SmartWebview is a webview integrated w/ native features to help create most advanced hybrid applications.
+Github SmartWebview is a webview integrated w/ native features to help create most advanced hybrid applications.
 
 ## "Android File Manager with File Share(like SHAREit) and Text Editor" Source code
 #### [【Leaf Explorer】Download Now](https://github.com/Shiv-Shambhu/Leaf-Explorer)
