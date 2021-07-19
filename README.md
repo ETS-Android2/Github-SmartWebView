@@ -1,16 +1,7 @@
-# Github-SmartWebView
+## Github-SmartWebView
 Github SmartWebview is a webview integrated w/ native features to help create most advanced hybrid applications.
 
-## "Android File Manager with File Share(like SHAREit) and Text Editor" Source code
-#### [【Leaf Explorer】Download Now](https://github.com/Shiv-Shambhu/Leaf-Explorer)
-
-## Support the Project
-
-#### There are few ways to support this project -
-
-**DONATE:** If this project helped you or your business in any way and you feel like donating some change, you can always -----+ :)
-
-<a href="http://paypal.me/premium813" target="_blank" title="Buy me a Coffee"><img width="150" style="border:0px;width:150px;display:block;margin:0 auto" src="https://github.com/mjbdl/Premium-SmartWebView/blob/master/app/donate-now-button-n-dim-300x162.jpg" border="0" alt="Buy Me a Coffee at ko-fi.com" /></a>
+### New Version : [Download Source Code](https://drive.google.com/file/d/11wr-lg6SL8TKY8nJWtzt4HPjBosZ4mZ3/view?usp=drivesdk)<br>
 
 <h2> Current features </h2>
   &bull; Lightweight - does not take lots of resources to run
