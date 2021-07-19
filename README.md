@@ -38,20 +38,8 @@ Github SmartWebview is a webview integrated w/ native features to help create mo
   <br>
 
 
-<h2> License </h2>
-<p>Copyright 2019 Mahadev-code.</p>
-Licensed under the Apache License, Version 2.0 (the "License");
-you may not use this file except in compliance with the License.
-You may obtain a copy of the License at
+## License
 
-    https://github.com/mjbdl/Github-SmartWebView/blob/master/LICENSE
-
-
-Unless required by applicable law or agreed to in writing, software
-distributed under the License is distributed on an "AS IS" BASIS,
-WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-See the License for the specific language governing permissions and
-limitations under the License.
-
-You HAVE TO credit Github-SmartWebView for the use of this source code!
+This app is licensed under GNU Public License version 2.0 or later version.
+https://github.com/Mahadev-code/Github-SmartWebView/blob/master/LICENSE
   
