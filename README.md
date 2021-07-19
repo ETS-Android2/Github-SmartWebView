@@ -37,9 +37,7 @@ Github SmartWebview is a webview integrated w/ native features to help create mo
   &bull; No Coding skills required
   <br>
 
-<h2> Download it: </h2>
-<li><a href="https://github.com/mjbdl/Github-SmartWebView/blob/master/Premium-SmartWebView-master.apk">Get Github-SmartWebView apk</a></li>
-<br>
+
 <h2> License </h2>
 <p>Copyright 2019 Mahadev-code.</p>
 Licensed under the Apache License, Version 2.0 (the "License");
