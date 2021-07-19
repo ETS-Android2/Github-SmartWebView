@@ -37,16 +37,10 @@ Github SmartWebview is a webview integrated w/ native features to help create mo
   &bull; No Coding skills required
   <br>
 
-## About
-Github-SmartWebView App is a native Android application which uses web view component for displaying content. With this template you can turn your responsive website into a Smart mobile app. It is quick, easy and affordable. Github-SmartWebView App has many useful built-in feature. It is the best web view app on Github. This template provides you easy way to make your own app. It does not require programming skills. Code is easily configurable and customizable. There is just few changes to setting up everything. Project is well documented. Create your own app in less than 15 minutes without any special knowledge! It's easier than you think.  	&nbsp;	&nbsp;
-<img src="https://github.com/mjbdl/Premium-SmartWebView/blob/master/app/src/main/res/mipmap-hdpi/ic_launcher.png"/>
 <h2> Download it: </h2>
 <li><a href="https://github.com/mjbdl/Github-SmartWebView/blob/master/Premium-SmartWebView-master.apk">Get Github-SmartWebView apk</a></li>
 <br>
-<h2> Extras </h2>
-<p>Find out more about Github-SmartWebView :) </p>
-<li><a href="https://try-tolearn.blogspot.com/2019/09/premium-smartwebview.html">Click For More Information</a></li>
-<p><b>License</b><p>
+<h2> License </h2>
 <p>Copyright 2019 Mahadev-code.</p>
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
@@ -61,5 +55,5 @@ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
 
-You HAVE TO credit Premium-SmartWebView for the use of this source code!
+You HAVE TO credit Github-SmartWebView for the use of this source code!
   
