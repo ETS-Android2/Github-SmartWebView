@@ -37,10 +37,10 @@ Github SmartWebview is a webview integrated w/ native features to help create mo
   &bull; No Coding skills required
   <br>
 
-## Donate 💚
-You can support our work with a donation.
+## Donation 💚
+If this project help you reduce time to develop, you can give me a cup of coffee :)
 
-<a href="https://try-tolearn.blogspot.com/2021/07/donate.html?m=1" target="_blank" title="Buy me a Coffee"><img width="150" style="border:0px;width:150px;display:block;margin:0 auto" src="https://github.com/mjbdl/Premium-SmartWebView/blob/master/app/donate-now-button-n-dim-300x162.jpg" border="0" alt="Donate to get Leaf Explorer Source Code" /></a>
+[![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://try-tolearn.blogspot.com/2021/07/donate.html?m=1)
 
 
 ## License
