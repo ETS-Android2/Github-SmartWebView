@@ -5,6 +5,10 @@ Github SmartWebview is a webview integrated w/ native features to help create mo
 
 ### App Demo : [Demo app link](https://drive.google.com/file/d/11vThZ9xVbhxJ6YWuF7OrwUB5n48goIKd/view?usp=drivesdk)<br>
 
+### Join Telegram
+1. Get all Available updates via Telegram Channel.
+2. All Information About **Github SmartWebView.**
+##### [Join Telegram channel](https://t.me/Shiv_Shambhu_Github)
 
 <h2> Current features </h2>
   &bull; Lightweight - does not take lots of resources to run
