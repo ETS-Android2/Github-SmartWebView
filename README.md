@@ -1,5 +1,6 @@
 ## Github-SmartWebView
-Github SmartWebview is a webview integrated w/ native features to help create most advanced hybrid applications.
+Github-SmartWebView App is a native Android application which uses web view component for displaying content. With this template you can turn your responsive website into a Smart mobile app. It is quick, easy and affordable. Github-SmartWebView App has many useful built-in feature. It is the best web view app on Github. This template provides you easy way to make your own app. Code is easily configurable and customizable. There is just few changes to setting up everything. Create your own app in less than 15 minutes without any special knowledge! It's easier than you think.
+
 
 ### New Version : [Download Source Code](https://github.com/Mahadev-code/Github-SmartWebView/blob/master/Version/Github-SmartWebView.zip)<br>
 
