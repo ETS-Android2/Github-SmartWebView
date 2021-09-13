@@ -10,39 +10,20 @@ Github SmartWebview is a webview integrated w/ native features to help create mo
 2. All Information About **Github SmartWebView.**
 ##### [Join Telegram channel](https://t.me/Shiv_Shambhu_Github)
 
-<h2> Current features </h2>
-  &bull; Lightweight - does not take lots of resources to run
-  <br>
-  &bull; Fast - surf the web at the best speed posible
-  <br>
-  &bull; Download Manager - Standard Download System
-  <br>
-  &bull; Customizable - Easy to Customize
-  <br>
-  &bull; Nice UI - it is designed to look and work great
-  <br>
-  &bull; Search Manager - Search System available
-  <br>
-  &bull; Error handling - Error Handle
-  <br>
-<br>
-  &bull; Offline handling - handle WebView when No internet
-  <br>
-<br>
-  &bull; Navigation Drawer - Standard look Navigation Drawer
-  <br>
-<br>
-  &bull; Option menu - Various Option menu
-  <br>
-<br>
-  &bull; Easy to use in Android Studio
-  <br>
- <br>
-  &bull; Handle External URLs like(youtube.com,play.google.com, and others)
-  <br>
-<br>
-  &bull; No Coding skills required
-  <br>
+## Current features
+- [x] Lightweight - does not take lots of resources to run.
+- [x] Fast - surf the web at the best speed posible
+- [x] Download Manager - Standard Download System
+- [x] Customizable - Easy to Customize.
+- [x] Nice UI - it is designed to look and work great
+- [x] Search Manager - Search System available
+- [x] Error handling - Error Handle
+- [x] Offline handling - handle WebView when No internet
+- [x] Navigation Drawer - Standard look Navigation Drawer
+- [x] Option menu - Various Option menu
+- [x] Easy to use in Android Studio
+- [x] Handle External URLs like(youtube.com,play.google.com, and others)
+- [x] No Coding skills required
 
 ## Donation 💚
 If this project help you reduce time to develop, you can give me a cup of coffee :)
