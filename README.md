@@ -9,17 +9,15 @@ Code is easily configurable and customizable.
 There is just few changes to setting up everything.
 Create your own app in less than 15 minutes without any special knowledge! It's easier than you think.
 
-#### 🔅New Version :- [Download Source Code](https://github.com/Shiv-Shambhu/Shiv-Shambhu-Project)
-
-#### Old Version :- [Source code](https://github.com/Mahadev-code/Github-SmartWebView/blob/master/Version/Github-SmartWebView.zip)
-#### Old Version App :- [Demo app link](https://drive.google.com/file/d/11vThZ9xVbhxJ6YWuF7OrwUB5n48goIKd/view?usp=drivesdk)
+#### Download :- [Source code](https://github.com/Mahadev-code/Github-SmartWebView/blob/master/Version/)
+#### Download :- [Demo app](https://drive.google.com/file/d/11vThZ9xVbhxJ6YWuF7OrwUB5n48goIKd/view?usp=drivesdk)
 
 ### Join Telegram
 1. Get all Available updates via Telegram Channel.
 2. All Information About **Github SmartWebView.**
 ##### [Join Telegram channel](https://t.me/Shiv_Shambhu_Github)
 
-## Old Version features
+## Features
 - [x] Lightweight - does not take lots of resources to run.
 - [x] Fast - surf the web at the best speed posible
 - [x] Download Manager - Standard Download System
